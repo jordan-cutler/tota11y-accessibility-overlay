@@ -45,6 +45,8 @@ module.exports = {
     'typescript-sort-keys/interface': 'error',
     'typescript-sort-keys/string-enum': 'error',
     'unused-imports/no-unused-imports': 'error',
+    'arrow-body-style': 'off',
+    'jsx-a11y/label-has-associated-control': 'off',
     'prefer-arrow/prefer-arrow-functions': [
       'error',
       {
